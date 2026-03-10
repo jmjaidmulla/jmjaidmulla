@@ -27,6 +27,21 @@
 <a href="https://instagram.com/jaids_2326" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Jaid Mulla" height="30" width="40" /></a>
 
+<a href="https://t.me/jaids_2326" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram" height="30" width="40" />
+</a>
+
+<a href="https://twitter.com/jaids_2326" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+</a>
+
+<a href="https://github.com/jmjaidmulla" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" height="30" width="40" />
+</a>
+
+<a href="https://jaidmulla.netlify.app" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" height="30" width="40" />
+</a>
 
 </p>
 
