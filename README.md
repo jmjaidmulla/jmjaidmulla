@@ -33,8 +33,8 @@
 </a>
 
 
-<a href="https://jaidmulla.netlify.app" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" height="30" width="40" />
+<a href="https://jaidmulla.netlify.app" target="_blank">
+<img align="center" src="https://github.com/jmjaidmulla/Jm_Portfolio/blob/main/assets/images/favicon.png" alt="JavaScript" height="35" width="35"/>
 </a>
 
 </p>
