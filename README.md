@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Jaid Mulla</h1>
 
@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ratnadeepgurav&label=Profile%20views&color=0e75b6&style=flat" alt="ratnadeepgurav" /> </p>
 
-- 🔭 I’m currently working on **House Price Prediction**
+- 🔭 I’m currently working on **CyberWatch Using AI Agents**
 
 - 🌱 I’m currently learning **TensorFlow PyTorch Machine Learning algorithms Data Visualization techniques**
 
@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/jaid-mulla-59b095230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ratndeep gurav" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jaid-mulla-59b095230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jaid Mulla" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
