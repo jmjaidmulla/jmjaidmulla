@@ -46,7 +46,7 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ratnadeepgurav&show_icons=true&locale=en" alt="ratnadeepgurav" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ratnadeepgurav&" alt="ratnadeepgurav" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmjaidmulla&" alt="jmjaidmulla" /></p>
 
 <!--
 **jmjaidmulla/jmjaidmulla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
