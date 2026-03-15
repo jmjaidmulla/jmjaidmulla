@@ -44,7 +44,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmjaidmulla&show_icons=true&locale=en&layout=compact" alt="jmjaidmulla" /></p> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmjaidmulla&show_icons=true&locale=en" alt="jmjaidmulla" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmjaidmulla&show_icons=true&locale=en" alt="jmjaidmulla" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmjaidmulla&" alt="jmjaidmulla" /></p>
 
